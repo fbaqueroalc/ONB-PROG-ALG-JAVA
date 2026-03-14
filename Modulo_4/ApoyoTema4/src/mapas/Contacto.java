@@ -1,4 +1,4 @@
-package mapas;
+
 
 // Clase que representa un contacto de la agenda
 class Contacto {
